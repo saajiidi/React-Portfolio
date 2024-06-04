@@ -9,6 +9,7 @@ import Interests from "./components/Interests";
 import Awards from "./components/Awards";
 import Projects from "./components/Projects";
 
+
 const App: React.FC = () => {
   return (
     <div className="App">
